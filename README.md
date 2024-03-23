@@ -9,6 +9,7 @@
     <img src="https://skillicons.dev/icons?i=sass" title="SASS" />
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=redux" title="Figma" />
   </div>
   <hr/>
 
