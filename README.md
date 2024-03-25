@@ -17,5 +17,4 @@
   
   Caminho para a imagem | Crédito aos criadores
   --- | ---
-  <a target="_blank" rel="noopener" href="https://github.com/rena02to/portifolio/blob/main/public/images/hacker.png">/public/favion.ico</a> | <a href="https://www.flaticon.com/free-icon/hacker_924915?term=computer&page=1&position=22&origin=tag&related_id=924915">Computer icons created by Freepik - Flaticon</a>
 </div>
