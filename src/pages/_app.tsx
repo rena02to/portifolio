@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return(
     <>
       <Head>
-        <title>Renato Alves</title>
+        <title>Renato Alves | Portifólio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <Analytics />
