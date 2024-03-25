@@ -1,0 +1,15 @@
+@import './mixins-and-variables.scss';
+
+html{
+    margin: 0;
+    padding: 0;
+    background-color: $backgound-geral;
+    button{
+        cursor: pointer;
+        border: 0px solid transparent;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    }
+}

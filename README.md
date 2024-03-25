@@ -2,7 +2,7 @@
   <h1>Renato Alves | Portifólio</h1>
   <hr />
 
-  <h2>Stach usada no desenvolvimento</h2>
+  <h2>Stack usada no desenvolvimento</h2>
   <div>
     <img src="https://skillicons.dev/icons?i=next" title="Next" />
     <img src="https://skillicons.dev/icons?i=html" title="HTML" />

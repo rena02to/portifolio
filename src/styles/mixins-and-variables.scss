@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+$font-italiano-cursiva: "Italianno", cursive;
+$font-barlow: "Barlow Condensed", sans-serif;
+$backgound-geral: white;
+$button-navbar-color: rgb(119, 175, 156);
+$navbar-color: rgb(34, 46, 80);
+$color-icon-open: green;
+
+@mixin align-flex($direction){
+    display: flex;
+    flex-direction: $direction;
+    justify-content: center;
+    align-items: center;
+}

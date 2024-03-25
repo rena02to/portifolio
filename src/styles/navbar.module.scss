@@ -1,2 +1,34 @@
-@import './globals.scss';
+@import './mixins-and-variables.scss';
 
+.nav{
+    @include align-flex(row);
+    position: fixed;
+    width: 100%;
+    bottom: 20px;
+    .buttons{
+        background-color: $navbar-color;
+        padding: 5px 10px;
+        border-radius: 100px;
+        @include align-flex(row);
+        gap: 5px;
+        .link{
+            font-size: 12px;
+            font-weight: 400;
+            padding: 10px;
+            border-radius: 200px;
+            font-family: $font-barlow;
+            background-color: transparent;
+            color: white;
+            position: relative;
+            transition: transform 0.3s ease-out;
+            @media (max-width: 600px){
+                font-size: 8px;
+            }
+            &:hover{
+                background: $button-navbar-color;
+                color: black;
+                transform: scale(1.1);
+            }
+        }
+    }
+}

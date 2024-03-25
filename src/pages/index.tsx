@@ -1,11 +1,10 @@
-import styles from "@/styles/Home.module.scss";
+import style from "@/styles/Home.module.scss";
 import Navbar from "@/components/navbar";
 
 export default function Home() {
   return (
-    <main>
+    <main className={style.main}>
       <Navbar />
-      <p>Em breve...</p>
     </main>
   );
 }
