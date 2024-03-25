@@ -9,6 +9,7 @@
     <img src="https://skillicons.dev/icons?i=sass" title="SASS" />
     <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
   </div>
   <hr/>
 
@@ -16,5 +17,5 @@
   
   Caminho para a imagem | Crédito aos criadores
   --- | ---
-  <a target="_blank" rel="noopener" href="https://br.freepik.com/icone/cafe_1269075">/public/favion.ico</a> | <p>Ícone de srip em <a target="_blank" rel="noopener" href="https://br.freepik.com/icone/cafe_1269075">Freepik</a></p>
+  <a target="_blank" rel="noopener" href="https://github.com/rena02to/portifolio/blob/main/public/images/hacker.png">/public/favion.ico</a> | <a href="https://www.flaticon.com/free-icon/hacker_924915?term=computer&page=1&position=22&origin=tag&related_id=924915">Computer icons created by Freepik - Flaticon</a>
 </div>
