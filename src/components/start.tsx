@@ -7,6 +7,10 @@ export default function Start(){
                 <span/>
                 <p>Disponível para trabalhos</p>
             </div>
+            <div className={style.text}>
+                <h1>Renato Alves: Desenvolvedor Frontend</h1>
+                <p>Transformando ideias em experiências digitais memoráveis...</p>
+            </div>
         </section>
     );
 }
