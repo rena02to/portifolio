@@ -2,15 +2,19 @@ import { combineReducers } from 'redux';
 
 //tipagem dos estados
 interface typeStates {
+  qScroll: boolean,
 }
 
 //valores iniciais dos estados
 const initialState: typeStates = {
+  qScroll: false,
 };
 
 //ações
 export const stateReducer = (state = initialState, action: any) => {
   switch (action.type) {
+    case 'setqScroll':
+      return{ ...state, qScroll: action.payload };
     default:
       return state;
   }

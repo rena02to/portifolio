@@ -5,6 +5,7 @@
     position: fixed;
     width: 100%;
     bottom: 20px;
+    z-index: 9;
     .buttons{
         background-color: $navbar-color;
         padding: 5px 10px;
@@ -32,6 +33,29 @@
                 color: black;
                 transform: scale(1.1);
             }
+        }
+    }
+}
+.top{
+    position: fixed;
+    z-index: 9;
+    top: 30px;
+    right: 30px;
+    @include align-flex(column);
+    border-radius: 5px;
+    padding: 5px 7px;
+    font-size: 10px;
+    background-color: rgb(175, 175, 175);
+    @media (max-width: 600px){
+        top: 10px;
+        right: 15px;
+    }
+    svg{
+        width: 20px;
+        height: 20px;
+        @media (max-width: 600px){
+            height: 15px;
+            width: 15px;
         }
     }
 }
